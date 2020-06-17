@@ -6,7 +6,7 @@ All useful imformation has been centeralized in `_config.yml`.
 
 ## How to use
 ### to one who received this
-Just click [here](https://haitian1221.github.io/Love-to-Accompany/index.html) to view.
+Just click [here](https://haitian1221.github.io/Accompany/index.html) to view.
 
 ## Copyright
 * Rearrange & remade by MY Sun
